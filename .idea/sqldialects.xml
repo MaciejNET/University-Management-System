@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/create_database.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/functions.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/init.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/tables.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/views.sql" dialect="TSQL" />
+  </component>
+</project>
